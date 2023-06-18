@@ -1,0 +1,13 @@
+[
+null,
+{"battlerName":"Zephyra_normal","characterIndex":0,"characterName":"Zephy","classId":1,"equips":[201,0,0,203,101],"faceIndex":4,"faceName":"Zephy","id":1,"initialLevel":1,"maxLevel":99,"name":"泽菲拉","nickname":"精灵族","note":"<CSS_IMAGE:YY_Menu_ST_Base00>\n</CSS_IMAGE>\n<CSS_IMAGE:YY_Menu_ST_Base01>\n</CSS_IMAGE>\n<CSS_IMAGE:YY_Menu_ST_Base02>\n</CSS_IMAGE>\n<CSS_IMAGE:YY_Menu_ST_Base03>\n</CSS_IMAGE>\n<Set Sts Data>\nTreeType: 691,692,693\nInit Sp: 5\n</Set Sts Data>\n<SACGuardFormula:1>","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"NTRMan","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NTRMan","id":2,"initialLevel":1,"maxLevel":99,"name":"尼洛","nickname":"作家","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":3,"initialLevel":1,"maxLevel":99,"name":"公会负责人","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":4,"characterName":"NTRMan","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"NTRMan","id":4,"initialLevel":1,"maxLevel":99,"name":"罗布森","nickname":"富商","note":"","profile":"","traits":[]},
+{"battlerName":"Georg","characterIndex":5,"characterName":"NTRMan","classId":3,"equips":[202,0,0,204,0],"faceIndex":2,"faceName":"NTRMan","id":5,"initialLevel":1,"maxLevel":99,"name":"盖欧鲁克","nickname":"冒险者","note":"<CSS_IMAGE:YY_Menu_ST_Georg00>\n</CSS_IMAGE>\n<SACGuardFormula:1>","profile":"","traits":[]},
+{"battlerName":"","characterIndex":6,"characterName":"NTRMan","classId":5,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"NTRMan","id":6,"initialLevel":1,"maxLevel":99,"name":"菲尔","nickname":"炼金术师","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":7,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":8,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":4,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":9,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":10,"initialLevel":1,"maxLevel":99,"name":"透明","nickname":"","note":"","profile":"","traits":[]}
+]
